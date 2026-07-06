@@ -1,0 +1,2 @@
+Given model predictions, cost attribution, and lane-level signals, recommend practical logistics interventions.
+Recommendations must be tied to evidence such as dwell time, CPC variance, demurrage exposure, or accessorial charge increases.
