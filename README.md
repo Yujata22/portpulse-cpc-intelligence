@@ -194,42 +194,6 @@ portpulse-cpc-intelligence/
 
 ---
 
-## 🚀 Quickstart
-
-```bash
-git clone <your-repo-url>
-cd portpulse-cpc-intelligence
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-Generate synthetic data:
-
-```bash
-python src/generate_synthetic_data.py
-```
-
-Train CPC model:
-
-```bash
-python src/train_cpc_model.py
-```
-
-Run API:
-
-```bash
-uvicorn backend.api:app --reload
-```
-
-Example endpoint:
-
-```bash
-curl "http://127.0.0.1:8000/lane/USLAX"
-```
-
----
-
 ## 📌 Example Output
 
 **User question:**
