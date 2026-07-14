@@ -1,8 +1,8 @@
 # PortPulse AI: Agentic CPC Intelligence for Inbound Ocean Logistics
 
-A GitHub-ready prototype that combines synthetic logistics data, machine learning, explainable cost attribution, and an agentic reasoning layer to analyze and predict **Cost Per Container (CPC)** across inbound ocean logistics lanes.
+PortPulse AI is an end-to-end analytics and decision intelligence platform designed to help logistics teams understand, predict, and optimize Cost Per Container (CPC) across inbound ocean transportation networks. Built using synthetic logistics data, the project combines machine learning, explainable analytics, and agentic AI to transform raw shipment events into actionable operational insights.
 
-This project is intentionally built with synthetic data and generic U.S. port operations. It does **not** use proprietary company data.
+The platform simulates a real-world inbound logistics environment by modeling container movements across major U.S. ports, carriers, lanes, and transportation programs. It leverages predictive models to forecast future CPC trends, identifies the operational and financial drivers behind cost fluctuations, and provides an intelligent conversational interface that enables users to interact with logistics data using natural language.
 
 ---
 
